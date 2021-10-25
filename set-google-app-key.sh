@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Hadaytullah\Documents\source\keys\kiny-4a738-firebase-adminsdk-jy181-2b4074f4e5.json"
